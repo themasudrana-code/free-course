@@ -1,0 +1,17 @@
+.menuBar img{
+    max-width: 300px;
+    margin: 0 auto;
+    display: inherit;
+}
+.menuBar nav{
+    max-width: 100%;
+    display: flex;
+    background: #444;
+    justify-content: space-around;
+}
+.menuBar nav a{
+    color: #fff;
+    font-size: 16px;
+    line-height: 42px;
+    text-decoration: none;
+}

@@ -1,0 +1,15 @@
+.cardBody{
+    display: flex;
+}
+.card{
+    width: 85%;
+    padding: 30px;
+    border-right: 2px solid #444;
+    display:grid ;
+    grid-template-columns: 31% 31% 31%;
+    grid-column-gap: 20px;
+    grid-row-gap: 40px;
+}
+.cart{
+    width: 15%;
+}

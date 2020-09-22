@@ -1,0 +1,10 @@
+.footer{
+    background: #888;
+    text-align: center;
+}
+.footer p, .footer a{
+    color:#fff;
+    font-size: 16px;
+    line-height: 42px;
+    text-align: center;
+}
